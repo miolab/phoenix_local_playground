@@ -36,4 +36,6 @@ $ mix ecto.migrate
 
 ## Preview (ON GOING)
 
+[localhost:4000/users](http://localhost:4000/users)
+
 <img width="834" alt="image" src="https://user-images.githubusercontent.com/33124627/86420327-3042cf80-bd11-11ea-862a-13b6e71b2127.png">
